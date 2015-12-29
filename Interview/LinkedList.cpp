@@ -39,7 +39,7 @@ void append_node_and_advance(shared_ptr<node_t<T>>& head, shared_ptr<node_t<T>>&
 }
 
 
-//Merge Sorted Linked Lists
+//Merge Sorted Linked Lists (singly Linked Lists)
 template <typename T>
 shared_ptr<node_t<T>> merge_sorted_linked_lists(shared_ptr<node_t<T>> L, shared_ptr<node_t<T>> F) {
     shared_ptr<node_t<T>> sorted_head= nullptr, tail = nullptr;
