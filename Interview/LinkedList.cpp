@@ -10,7 +10,7 @@
 //  Your code should use O(1) additional storage
 //  The only field you can change in a node is next
 //
-//  Created by Mahesh  Yadangi on 29/12/15.
+//  Created by Mahesh  Yadangi
 //  Copyright (c) 2015 Mahesh. All rights reserved.
 //
 
